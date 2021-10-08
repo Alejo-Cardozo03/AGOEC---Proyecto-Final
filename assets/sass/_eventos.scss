@@ -1,0 +1,59 @@
+.services .icon-box {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    height: 600px;
+  }
+
+  .services .icon-box.iconbox-blue{
+    background-image: url("/assets/img/pexels-rfstudio-3621104.jpg");
+    background-size: cover;
+  }
+
+  .services .icon-box.iconbox-orange{
+    background-image: url("/assets/img/pexels-cottonbro-5739121.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+
+  .services .icon-box.iconbox-pink{
+    background-image: url("/assets/img/pexels-lukas-296308.jpg");
+    background-size: cover;
+  }
+
+  .services .icon-box.iconbox-yellow{
+    background-image: url("/assets/img/pexels-steve-dimatteo-8043650.jpg");
+    background-size: cover;
+  }
+
+  .services .icon-box.iconbox-red{
+    background-image: url("/assets/img/pexels-sascha-düser-187329.jpg");
+    background-size: cover;
+  }
+
+  .services .icon-box.iconbox-teal{
+    background-image: url("/assets/img/pexels-brett-sayles-1141436.jpg");
+    background-size: cover;
+  }
+
+  .services .icon-box .icon svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .services .icon-box h4 {
+    font-size: 40px;
+  }
+  .services .icon-box h4 a {
+    color: #ffffff;
+    background-color: rgba(23, 100, 145, 0.658);
+  }
+  .services .icon-box p {
+    background-color: rgba(23, 100, 145, 0.658);
+    color: white;
+    line-height: 40px;
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+
